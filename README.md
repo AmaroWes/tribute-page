@@ -31,3 +31,6 @@ This project was developed with the following technologies:
 
 This project is under the MIT license. See the [LICENSE](LICENSE.md) file for more details.
 
+## Disclaimer: 
+- It was not possible to locate the owner of the rights to the image used in this example, if you know who the owner is, notify me to leave the due credits, thank you.
+
